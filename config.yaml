@@ -2,15 +2,15 @@ baseURL: "https://tensorops.io/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "TensorOPS.io"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "TensorOPS.io"
+  description: "We specialize in MLOPs for fast paced AI companies."
   images: 
     - "images/hero-image.png"
 
@@ -18,24 +18,23 @@ params:
 
   favicons:
     themeColor: "#FFFFFF"
-    backgroundColor: "#FFFFFF"
+    backgroundColor: "#000000"
     faviconColor: "#000000"
 
-  social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+  # social:
+  #   dribbble: "#"
+  #   instagram: "#"
+  #   facebook: "#"
+  #   twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
     - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "contact@hamon.in"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+
+  copyright: "© 2024 TensorOPS.io. All rights reserved."
 
 menus:
   main:
@@ -47,13 +46,13 @@ menus:
       url: "/#"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
 
     - name: "Blog"
       url: "/blog"
@@ -74,13 +73,13 @@ menus:
       url: "/#"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
+    # - name: "Our team"
+    #   url: "/#"
+    #   weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+    # - name: "Pricing"
+    #   url: "/#"
+    #   weight: 4
 
     - name: "Blog"
       url: "/blog"
